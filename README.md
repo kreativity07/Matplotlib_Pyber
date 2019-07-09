@@ -1,3 +1,3 @@
 # Matplotlib_Pyber
 
-An analysis of an Uber type business using matplotlib
+Show the power of plots through analysis of an Uber type business using matplotlib
