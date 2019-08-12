@@ -1,3 +1,3 @@
 # Matplotlib_Pyber
 
-Show the power of plots through analysis of an Uber type business using matplotlib
+Created Bubble Plot & Pie Charts to perform an analysis of an Uber type business using matplotlib library and jupyter notebook.
